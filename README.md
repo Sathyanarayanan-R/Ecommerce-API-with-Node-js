@@ -44,3 +44,4 @@ NOTE: Ignored any payment related APIs for simplicity. We have assumed that paym
 5. Error Handling: Appropriate error handling is in place, and the API returns meaningful error messages and status codes when necessary.
 
 6. Documentation: Created postman documentation for the API endpoints, including details about their functionality, expected input, and output.
+   * API Documentation URL : https://documenter.getpostman.com/view/26192113/2s9Y5SXkxr
